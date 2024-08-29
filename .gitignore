@@ -1,2 +1,5 @@
 # 忽略依赖目录
 /go.mod
+
+# ignore files
+.DS_Store
